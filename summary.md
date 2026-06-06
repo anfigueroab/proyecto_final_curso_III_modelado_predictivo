@@ -1,3 +1,6 @@
+# Developed by
+Andrés Felipe Figueroa Betancourt
+
 # Solution Summary
 
 Conclusions from each of the following sections:
